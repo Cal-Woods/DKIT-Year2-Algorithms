@@ -1,4 +1,4 @@
-# DKIT
-A repository for all of my college work.
+# DKIT-Year2-Algorithms
+A repository for my JAVA projects for Algorithms module.
 
-This repository will include My programming principles work, system administration work, are there any other programs or scripts.
+This repository consists of my algorithms projects from year 2 of my BSc in Computing course, focusing on Software Development.
